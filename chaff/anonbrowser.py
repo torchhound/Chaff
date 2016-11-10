@@ -1,4 +1,7 @@
-import mechanize, cookielib, random
+#This code is borrowed from Violent Python by TJ O'Connor
+import mechanize
+import cookielib
+import random
 
 class anonBrowser(mechanize.Browser):
 
