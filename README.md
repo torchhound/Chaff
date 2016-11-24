@@ -7,10 +7,10 @@ It was inspired by the browser extension TrackMeNot.
 
 Planned Features:
 =====
-*Choose the delay between search requests
+- Choose the delay between search requests
 
-*Have a TUI
+- Have a TUI
 
-*Be able to change the user agent
+- Be able to change the user agent
 
-*Use keywords as search terms instead of randomly generated garbage
+- Use keywords as search terms instead of randomly generated garbage
