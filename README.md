@@ -7,10 +7,9 @@ network traffic. This project is written in python 3.5. It was inspired by the b
 Planned Features:
 =====
 
-- Add additional search engines(FAROO) perhaps switching between them randomly
+- Add additional search engines(FAROO, Google Custom Search) perhaps switching between them randomly
 
 - Choose the delay between search requests
 
 - Have a TUI or argument parsing
 
-- Use keywords as search terms instead of randomly generated garbage
