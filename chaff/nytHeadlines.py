@@ -16,3 +16,12 @@ def cleanup():
 		for line in f:
 			if not line.isspace():
 				f.write(line)
+
+def main():
+	print("Starting")
+	getHeadlines()
+	cleanup()
+	print("Finished")
+
+if __name__ == "__main__":
+	main()

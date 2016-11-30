@@ -9,7 +9,8 @@ Planned Features:
 
 - Add additional search engines(FAROO, Google Custom Search) perhaps switching between them randomly
 
-- Choose the delay between search requests
+- Add command line options(argparse)
 
-- Have a TUI or argument parsing
+- Add logging
 
+ - Add JSON parsing of results
